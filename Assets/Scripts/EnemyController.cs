@@ -51,6 +51,7 @@ public class EnemyController : MonoBehaviour
         EnemyMove();
     }
 
+    //Controla el movimiento del enemigo
     void EnemyMove()
     {
         //calculate the destination in order to movingToEnd
